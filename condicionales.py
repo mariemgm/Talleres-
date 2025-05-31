@@ -39,6 +39,24 @@
 # else:
 #     print("no se cumplen las condiciones ")
 
+#ejercicio generaciones digitales
+
+# año=int(input("ingrese su año de nacimiento"))
+# if año <= 1940:
+#     print("pertenece a la generación silenciosa")
+# elif año <= 1964:
+#     print ("pertenece a la generación análoga")
+# elif año <= 1979:
+#     print("pertenece a la generación de los inmigrantes digitales")
+# elif año <= 2000:
+#     print("pertenece a la generación de los nativos digitales GEN Y")
+# elif año >= 2001:
+#     print("pertenece a la generación de nativos digitales GEN Z")
+# else:
+#     print("no pertenece a una generación")
+
+
+# print("fin")
 
 
 
